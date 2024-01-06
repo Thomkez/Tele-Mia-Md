@@ -127,11 +127,9 @@ TUTORIAL SOON
 
 ### `THANKS`
 - Telegraf & Telegram
-- My God
-- My Mine Shofiya
+- My Miaaa Rorrrrr
 - [Thomkez Developer](https://github.com/Thomkez)
 - [My Mastah](https://github.com/zeeoneofficial/Telebot)
 - Kizh Offc
-- Mia Rorrr
 - My Mom And Paps
 - And all Support.
